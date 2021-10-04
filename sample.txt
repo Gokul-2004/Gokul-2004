@@ -1,3 +1,4 @@
 this is my sample code
 
 1 git init
+ok, go continue
